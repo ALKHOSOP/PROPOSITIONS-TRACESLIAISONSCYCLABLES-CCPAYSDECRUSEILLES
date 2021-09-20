@@ -81,7 +81,7 @@ var lyr_PROPOSITIONSTRACESLIAISONSCYCLABLES_5 = new ol.layer.Vector({
                 style: style_PROPOSITIONSTRACESLIAISONSCYCLABLES_5,
                 interactive: true,
     title: 'PROPOSITIONS TRACES LIAISONS CYCLABLES<br />\
-    <img src="styles/legend/PROPOSITIONSTRACESLIAISONSCYCLABLES_5_0.png" /> ALTERNATIVE<br />\
+    <img src="styles/legend/PROPOSITIONSTRACESLIAISONSCYCLABLES_5_0.png" /> TRACE ALTERNATIF<br />\
     <img src="styles/legend/PROPOSITIONSTRACESLIAISONSCYCLABLES_5_1.png" /> TRACE DE BASE<br />'
         });
 

@@ -5,7 +5,7 @@ function categories_PROPOSITIONSTRACESLIAISONSCYCLABLES_5(feature, value, size, 
                        placement) {
                 switch(value.toString()) {case 'ALTERNATIVE':
                     return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(22,51,244,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 3}),
+        stroke: new ol.style.Stroke({color: 'rgba(20,230,241,1.0)', lineDash: null, lineCap: 'square', lineJoin: 'bevel', width: 3}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
@@ -13,7 +13,7 @@ function categories_PROPOSITIONSTRACESLIAISONSCYCLABLES_5(feature, value, size, 
                     break;
 case 'TRACE DE BASE':
                     return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(22,51,244,1.0)', lineDash: null, lineCap: 'square', lineJoin: 'bevel', width: 3}),
+        stroke: new ol.style.Stroke({color: 'rgba(37,49,219,1.0)', lineDash: null, lineCap: 'square', lineJoin: 'bevel', width: 3}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
